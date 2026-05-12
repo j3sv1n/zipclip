@@ -1,0 +1,6 @@
+[submodule "zipclip-backend"]
+	path = zipclip-backend
+	url = https://github.com/j3sv1n/zipclip-backend.git
+[submodule "zipclip-web"]
+	path = zipclip-web
+	url = https://github.com/j3sv1n/zipclip-web.git
