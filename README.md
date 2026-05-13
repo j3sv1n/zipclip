@@ -1,6 +1,6 @@
 # 🎬 ZipClip
 
-**ZipClip** is an AI-powered video automation platform designed to transform long-form content into engaging, high-impact short-form videos optimized for YouTube Shorts, TikTok, and Instagram Reels. By combining advanced speech recognition,natural language processing, and computer vision, ZipClip automates the tedious parts of video editing..
+**ZipClip** is an AI-powered video automation platform designed to transform long-form content into engaging, high-impact short-form videos optimized for YouTube Shorts, TikTok, and Instagram Reels. By combining advanced speech recognition,natural language processing, and computer vision, ZipClip automates the tedious parts of video editing.
 
 ![Main Dashboard Placeholder](ss_dashboard.png)
 
